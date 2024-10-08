@@ -16,6 +16,6 @@ Art, Drawing, Crafts, Reading
 
 ## Main Role Models
 * Pirate Software (Thor)
-
+[PirateSoftware](
 * EmortalMarcus
 
