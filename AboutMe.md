@@ -16,6 +16,9 @@ Art, Drawing, Crafts, Reading
 
 ## Main Role Models
 * Pirate Software (Thor)
+
 ![PirateSoftware](https://github.com/JCook28/JCook28-Profile/blob/main/9a1edcb1-7d62-48ab-b071-1ef64ab0f629-profile_image-300x300.png)
 * EmortalMarcus
+
+[EmortalMarcus](https://github.com/JCook28/JCook28-Profile/blob/main/EmortalMarcusGuy.jpg)
 
